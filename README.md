@@ -1,2 +1,2 @@
 # Portfolio
-My projects from WDI
+My projects
