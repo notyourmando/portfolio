@@ -2,7 +2,7 @@ body {
   font-family: helvetica, sans-serif;
   margin: 0 auto;
   max-width: 600px;
-  background: rgba(58, 10, 75, 1);
+  background: rgba(15, 94, 187, 1);
 }
 div {
   height: 350px;
@@ -12,19 +12,30 @@ div {
   border-radius: 12px;
 }
 h1 {
-  font-family: 'Londrina Shadow', cursive;
+  font-family: 'Chicle', cursive;
   text-align: center;
   font-size: 50px;
-  color: #aaaaaa;
+  color: #e2dee3;
   margin: 60px 0 0 0;
 }
 h2 {
+  font-family: 'Chicle', cursive;
+  font-size: 45px;
   text-align: center;
-  color: #bbbbbb;
-  margin: 0px 0 70px 0;
+  color: #e2dee3;
+  margin: 0px 0 35px 0;
+}
+h3 {
+  font-family: 'Shanti', cursive;
+  font-size: 21px;
+  text-align: center;
+  color: #e2dee3;
+  margin: 50px 0 50px 0;
 }
 p {
   color: rgba(255,255,255,1);
+  font-family: 'Shanti', cursive;
+  font-size: 18px;
   background: black;
   background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
@@ -48,9 +59,6 @@ p {
 }
 .chistreetart{
   background-image: url("http://i.imgur.com/VP1pnKg.png");
-}
-.live {
-  float: right;
 }
 small {
   opacity: 0;
