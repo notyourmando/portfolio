@@ -2,7 +2,7 @@ body {
   font-family: helvetica, sans-serif;
   margin: 0 auto;
   max-width: 600px;
-  background: rgba(15, 94, 187, 1);
+  background: rgba(96, 99, 102, 1);
 }
 div {
   height: 350px;
@@ -15,21 +15,21 @@ h1 {
   font-family: 'Chicle', cursive;
   text-align: center;
   font-size: 50px;
-  color: #e2dee3;
+  color: #311737;
   margin: 60px 0 0 0;
 }
 h2 {
   font-family: 'Chicle', cursive;
   font-size: 45px;
   text-align: center;
-  color: #e2dee3;
+  color: #311737;
   margin: 0px 0 35px 0;
 }
 h3 {
   font-family: 'Shanti', cursive;
   font-size: 21px;
   text-align: center;
-  color: #e2dee3;
+  color: #311737;
   margin: 50px 0 50px 0;
 }
 p {
